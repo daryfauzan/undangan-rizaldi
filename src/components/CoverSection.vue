@@ -42,7 +42,7 @@ defineProps({
         <img class="flora leaf-right sway-flip" src="/images/leaf-right.webp" alt="" />
       </div>
     </div>
-    <div class="apology">Mohon maaf bila ada kesalahan penulisan nama dan gelar</div>
+    <!-- <div class="apology">Mohon maaf bila ada kesalahan penulisan nama dan gelar</div> -->
   </section>
 </template>
 
