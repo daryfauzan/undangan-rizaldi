@@ -5,7 +5,7 @@
     <img class="flora corner" src="/images/corner-plant.webp" alt="" />
 
     <div class="inner photo-copy">
-      <div class="script title">Rizal &amp; Alya</div>
+      <div class="script title">Alya &amp; Rizal </div>
       <div class="eyebrow label">Momen Bahagia</div>
 
       <figure class="map-frame portrait">

@@ -14,16 +14,16 @@ defineProps({
     <img class="flora flower float" src="/images/flower-small.webp" alt="" />
 
     <div class="inner cover-copy">
-      <img class="ornament rise" src="/images/ornament.webp" alt="" />
+      <img class="ornament rise" src="/images/ornament.webp" style="transform: rotateX(180deg);" alt="" />
       <div class="kicker rise">Pernikahan</div>
-      <h1 class="disp rise2">Rizal<br />&amp; Alya</h1>
+      <h1 class="disp rise2">Alya <br />&amp; Rizal</h1>
       <div class="date rise3">Sabtu, 17 Oktober 2026</div>
-      <div class="guest rise3">
+      <!-- <div class="guest rise3">
         <div>Kepada</div>
         <div>Yth. Bapak/Ibu/Saudara/i</div>
         <div class="disp guest-name">{{ guest }}</div>
-      </div>
-      <a href="#undangan" class="btn rise3">
+      </div> -->
+      <a href="#undangan" class="btn rise3" style="margin-top: 30px;">
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
           <rect x="3" y="5" width="18" height="14" rx="2" />
           <path d="m3 7 9 6 9-6" />

@@ -7,6 +7,7 @@ import PhotoSection from './components/PhotoSection.vue'
 import EventSection from './components/EventSection.vue'
 import LocationSection from './components/LocationSection.vue'
 import ClosingSection from './components/ClosingSection.vue'
+import FooterSection from './components/FooterSection.vue'
 
 const guest = useGuestName()
 </script>
@@ -20,5 +21,6 @@ const guest = useGuestName()
     <EventSection />
     <LocationSection />
     <ClosingSection />
+    <FooterSection />
   </main>
 </template>

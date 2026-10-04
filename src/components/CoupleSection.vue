@@ -7,22 +7,22 @@
       <div class="salam">Assalamu’alaikum Warahmatullahi Wabarakatuh</div>
       <p>Dengan memohon rahmat dan ridho Allah SWT, kami bermaksud menyelenggarakan pernikahan putra-putri kami</p>
 
-      <div class="couple-card groom">
-        <div class="eyebrow role">Mempelai Pria</div>
-        <h2 class="disp">Rizaldi Al Karim</h2>
-        <div class="parents">Putra keempat dari<br />Bapak Ismono &amp; Ibu Nurul C.</div>
+      <div class="couple-card bride">
+        <div class="eyebrow role">Mempelai Wanita</div>
+        <h2 class="disp">Alyajilan Madani</h2>
+        <div class="parents">Putri pertama dari<br />Bapak Mamurrie &amp; Ibu Hanik M.</div>
       </div>
-
+      
       <div class="ampersand">
         <div class="line"></div>
         <div class="script mark">&amp;</div>
         <div class="line"></div>
       </div>
-
+      
       <div class="couple-card">
-        <div class="eyebrow role">Mempelai Wanita</div>
-        <h2 class="disp">Alyajilan Madani</h2>
-        <div class="parents">Putri pertama dari<br />Bapak Mamurrie &amp; Ibu Hanik M.</div>
+        <div class="eyebrow role">Mempelai Pria</div>
+        <h2 class="disp">Rizaldi Al Karim</h2>
+        <div class="parents">Putra keempat dari<br />Bapak Ismono &amp; Ibu Nurul C.</div>
       </div>
     </div>
   </section>
@@ -66,6 +66,10 @@ p {
 }
 
 .groom {
+  margin-top: 44px;
+}
+
+.bride {
   margin-top: 44px;
 }
 

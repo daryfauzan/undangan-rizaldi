@@ -18,7 +18,7 @@ const calendarUrl =
       <p>Yang InsyaAllah akan dilaksanakan pada:</p>
 
       <div class="event-card">
-        <img class="ornament" src="/images/ornament.webp" alt="" style="transform: rotateX(180deg);" />
+        <img class="ornament" src="/images/ornament.webp" alt=""/>
         <div class="eyebrow kind">Akad &amp; Resepsi</div>
         <div class="disp day">Sabtu, 17 Oktober 2026</div>
         <div class="time">10.00 – 12.00 WIB</div>

@@ -9,7 +9,8 @@
       </p>
       <div class="salam">Wassalamu’alaikum Warahmatullahi Wabarakatuh</div>
       <div class="signoff">Kami yang berbahagia,</div>
-      <div class="disp names">Rizal &amp; Alya</div>
+      <div class="disp names">Alya &amp; Rizal </div>
+      <div class="names" style="font-size: 24px; margin-top: 24px;">#spesiALYAbuatRIZAL</div>
     </div>
 
     <div class="stage">
