@@ -2,8 +2,8 @@
   <section id="undangan" class="section verse">
     <div class="lace band"></div>
     <img class="flora floral" src="/images/floral-a.webp" alt="" />
-    <img class="flora corner" src="/images/corner-plant.webp" alt="" />
-    <img class="flora plant sway-r" src="/images/plant-sway.webp" alt="" />
+    <img class="flora corner" src="/images/plant-sway.webp" alt="" />
+    <img class="flora plant" src="/images/corner-plant.webp" alt="" />
 
     <div class="inner verse-copy">
       <img class="monogram" src="/images/monogram.webp" alt="Monogram RA" />
@@ -39,7 +39,7 @@
 
 .corner {
   bottom: 0;
-  left: -40px;
+  left: 0px;
   width: 133px;
   height: 176px;
   opacity: 0.9;
@@ -49,7 +49,7 @@
 
 .plant {
   bottom: -45px;
-  right: -40px;
+  right: -5px;
   width: 170px;
 }
 

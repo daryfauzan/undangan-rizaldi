@@ -1,7 +1,7 @@
 <template>
   <section id="lokasi" class="section paper location">
     <img class="flora floral" src="/images/floral-a.webp" alt="" />
-    <img class="flora corner" src="/images/corner-plant.webp" alt="" />
+    <img class="flora corner" src="/images/corner-plant.webp" alt=""/>
 
     <div class="inner location-copy">
       <div class="script title">Denah Lokasi</div>
@@ -43,10 +43,9 @@
 
 .corner {
   bottom: 0;
-  right: -30px;
+  right: 0px;
   width: 150px;
   opacity: 0.9;
-  transform: scaleX(-1);
 }
 
 .location-copy {
